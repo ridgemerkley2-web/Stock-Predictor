@@ -7,7 +7,7 @@ const stats = [
 
 export default function RiskPage() {
   return (
-    <main className="space-y-4">
+    <main className="page-stack">
       <header>
         <h2 className="page-title">Risk Panel</h2>
         <p className="subtitle">

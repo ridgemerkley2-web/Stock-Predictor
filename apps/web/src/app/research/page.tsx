@@ -9,7 +9,7 @@ const bundles = [
 
 export default function ResearchPage() {
   return (
-    <main className="space-y-4">
+    <main className="page-stack">
       <header>
         <h2 className="page-title">Research Dashboard</h2>
         <p className="subtitle">

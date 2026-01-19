@@ -19,7 +19,7 @@ const cards = [
 
 export default function HomePage() {
   return (
-    <main className="space-y-6">
+    <main className="page-stack">
       <div className="status-row">
         <span className="status-pill">AI Mesh: Online</span>
         <span className="status-pill">Neural Links: Synced</span>

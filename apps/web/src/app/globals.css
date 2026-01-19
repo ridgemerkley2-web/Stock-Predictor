@@ -52,6 +52,12 @@ a {
   padding: 28px 20px 80px;
 }
 
+.page-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+}
+
 .top-bar {
   align-items: center;
   background: linear-gradient(120deg, rgba(15, 23, 42, 0.85), rgba(9, 15, 28, 0.9));

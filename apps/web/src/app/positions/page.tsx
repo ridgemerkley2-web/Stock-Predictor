@@ -9,7 +9,7 @@ const positions = [
 
 export default function PositionsPage() {
   return (
-    <main className="space-y-4">
+    <main className="page-stack">
       <header>
         <h2 className="page-title">Positions / Orders / Fills</h2>
         <p className="subtitle">

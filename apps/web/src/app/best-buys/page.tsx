@@ -19,7 +19,7 @@ const rows = [
 
 export default function BestBuysPage() {
   return (
-    <main className="space-y-4">
+    <main className="page-stack">
       <header>
         <h2 className="page-title">Best Buys Now</h2>
         <p className="subtitle">
